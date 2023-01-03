@@ -1,0 +1,48 @@
+.zero{
+    text-align: center;
+    color: rgb(28, 6, 84);
+    background-color: goldenrod;
+    height: 100px;
+    border: 10px solid rgb(9, 9, 101);
+}
+.one{
+    background-color: rgba(12, 95, 168, 0.908);
+    width: 50%;
+    float: left;
+    border: 5px dashed blue;
+    box-sizing: border-box;
+}
+
+.abc1, .abc2{
+   background-color: yellow;
+   font-size: large;
+   border: 2px solid black;
+}
+
+/* .abc2{
+    background-color: yellow;
+    font-size: large;
+    border: 2px solid black;
+ } */
+
+.two{
+    background-color: rgba(183, 20, 118, 0.908);
+    width: 50%;
+    float: left;
+    border: 5px dashed red;
+    box-sizing: border-box;
+}
+
+img{
+    border-radius: 50%;
+    border-color: blue;
+    width: 15%;
+    height: 15%;
+    float: left;
+}
+.zeroth{
+    text-align: center;
+    color: goldenrod;
+    background-color: rgb(46, 12, 85);
+    
+}
